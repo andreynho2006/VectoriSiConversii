@@ -1,0 +1,5 @@
+/Users/andrei/Desktop/C#-projects/CursCSharpProgramareProcedurala(2)/VectoriSiConversii/obj/Debug/VectoriSiConversii.csprojAssemblyReference.cache
+/Users/andrei/Desktop/C#-projects/CursCSharpProgramareProcedurala(2)/VectoriSiConversii/bin/Debug/VectoriSiConversii.exe
+/Users/andrei/Desktop/C#-projects/CursCSharpProgramareProcedurala(2)/VectoriSiConversii/bin/Debug/VectoriSiConversii.pdb
+/Users/andrei/Desktop/C#-projects/CursCSharpProgramareProcedurala(2)/VectoriSiConversii/obj/Debug/VectoriSiConversii.exe
+/Users/andrei/Desktop/C#-projects/CursCSharpProgramareProcedurala(2)/VectoriSiConversii/obj/Debug/VectoriSiConversii.pdb
