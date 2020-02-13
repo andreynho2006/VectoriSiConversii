@@ -86,15 +86,16 @@ pastrati rezultatul in alt vector corespunzator.");
                 Console.Write(vectorNumereIntregi[i].ToString()+"\t");
             }
             double doubleNumber = 97.4;
+            double[] vectorSumaDoubleInteger = new double[vectorNumereIntregi.Length];
             for(int i = 0; i < vectorNumereIntregi.Length; i++)
             {
-                vectorNumereIntregi[i] += (int)doubleNumber;
+                vectorSumaDoubleInteger[i] = vectorNumereIntregi[i] + doubleNumber;
             }
             Console.WriteLine();
             Console.WriteLine("Vectorul dupa adunare:");
-            for (int i = 0; i < vectorNumereIntregi.Length; i++)
+            for (int i = 0; i < vectorSumaDoubleInteger.Length; i++)
             {
-                Console.Write(vectorNumereIntregi[i].ToString() + "\t");
+                Console.Write(vectorSumaDoubleInteger[i].ToString() + "\t");
             }
             Console.WriteLine();
             Console.WriteLine();
@@ -210,6 +211,7 @@ contine array-uri de caractere corespunzatoare fiecarui cuvant.");
                 if (input[i] < 0)
                 {
                     Console.WriteLine("Index of negative integer is: {0}", input[i]);
+                    break;
                 }
             }
         }
